@@ -1,0 +1,28 @@
+.course{
+    background-color: white;
+    padding: 3%;
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 30%;
+    color: black;
+    box-shadow: 10px 10px 20px 0px rgba(97, 97, 97, 0.75);
+    border-radius: 20px;   
+}
+
+.courselist{
+    margin: 5%;
+}
+
+.search{
+    margin: 5%;
+}
+
+.enq{
+    margin: 5%;
+}
+
+.panel-container{
+    margin-left: 5%;
+}
